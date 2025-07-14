@@ -1,4 +1,4 @@
-# Automation Testing Project for AutomationExercise.com
+# Selenium-Python-Pytest Automation Testing Project for AutomationExercise.com
 
 This project automates the testing of [AutomationExercise.com](https://automationexercise.com) using Selenium WebDriver (Chrome only), Pytest, and Python. It covers:
 
