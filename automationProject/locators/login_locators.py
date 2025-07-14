@@ -1,5 +1,0 @@
-LOGIN_EMAIL = ("name", "email")
-LOGIN_PASSWORD = ("name", "password")
-LOGIN_BUTTON = ("xpath", "//button[contains(text(),'Login')]")
-LOGIN_ERROR = ("xpath", "//p[contains(text(),'incorrect')]")
-LOGOUT_LINK = ("link text", "Logout")
