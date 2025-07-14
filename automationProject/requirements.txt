@@ -1,0 +1,7 @@
+selenium
+pytest
+pyyaml
+requests
+Pillow
+pytest-html
+webdriver-manager
